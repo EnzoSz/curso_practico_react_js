@@ -1,0 +1,19 @@
+{
+  "name": "curso_practico_react_js",
+  "version": "1.0.0",
+  "description": "react eshop",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "react"
+  ],
+  "author": "Enzo Soliz <enzosoliz95@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
