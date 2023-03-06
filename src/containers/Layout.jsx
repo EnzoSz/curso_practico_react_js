@@ -1,10 +1,12 @@
 import React from "react";
- const Layout = ({children})=> {
+import Header from '../components/Header.jsx'
+const Layout = ({children})=> {
     return (
         <div className="Layout">
-            {children}
+            <Header/>
+            
         </div>
     );
- }
+}
 
- export default Layout;
+export default Layout;
