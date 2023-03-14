@@ -10,4 +10,4 @@ const useGetProducts = (API) => {
     return products;
 };
 
-export default useGetProducts
+export default useGetProducts;
